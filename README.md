@@ -1,7 +1,7 @@
 
 # SwiftAlertMessages
 
-[![Twitter: @f4kiho](https://img.shields.io/badge/contact-@TimothyMoose-blue.svg?style=flat)](https://twitter.com/TimothyMoose)
+[![Twitter: @f4kiho]((https://twitter.com/f4kiho)
 
 <p align="center">
   <img src="./Design/swiftmessages.png" />
