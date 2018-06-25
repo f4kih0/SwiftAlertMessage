@@ -1,11 +1,7 @@
 
-# SwiftMessages
+# SwiftAlertMessages
 
-[![Twitter: @TimothyMoose](https://img.shields.io/badge/contact-@TimothyMoose-blue.svg?style=flat)](https://twitter.com/TimothyMoose)
-[![Version](https://img.shields.io/cocoapods/v/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
-[![License](https://img.shields.io/cocoapods/l/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
-[![Platform](https://img.shields.io/cocoapods/p/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Twitter: @f4kiho](https://img.shields.io/badge/contact-@TimothyMoose-blue.svg?style=flat)](https://twitter.com/TimothyMoose)
 
 <p align="center">
   <img src="./Design/swiftmessages.png" />
@@ -285,9 +281,4 @@ messageView.buttonTapHandler = { _ in SwiftMessages.hide() }
 messageView.tapHandler = { _ in SwiftMessages.hide() }
 ````
 
-## About SwiftKick Mobile
-We build high quality apps! [Get in touch](http://www.swiftkickmobile.com) if you need help with a project.
 
-## License
-
-SwiftMessages is distributed under the MIT license. [See LICENSE](./LICENSE.md) for details.
